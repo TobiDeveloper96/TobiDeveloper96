@@ -20,9 +20,6 @@ A full-stack inventory tracking concept with product CRUD, categories, stock mov
 ### TaskFlow — Task Management App
 A React and TypeScript task manager with priorities, due dates, search, filters, and local browser persistence.
 
-### Matrix Style Portfolio Website
-A React + Vite website concept with EmailJS integration and modern visual styling.
-
 ### HTML Templates
 A collection of modern HTML/CSS templates focused on visual UI experiments, animated backgrounds, and landing page layouts.
 
