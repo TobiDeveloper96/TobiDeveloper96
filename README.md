@@ -36,6 +36,7 @@ These widgets automatically update based on my coding activity and commits:
   <img src="https://vercel.app" alt="Top Languages" height="180px" />
 </p>
 
+
 ---
 
 ### 💬 Connect with Me
