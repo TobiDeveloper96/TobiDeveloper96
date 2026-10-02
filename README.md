@@ -14,8 +14,6 @@ I build responsive web applications using React, TypeScript, JavaScript, Python,
 
 ## Featured Projects
 
-### Inventory Management System
-A full-stack inventory tracking concept with product CRUD, categories, stock movements, dashboard metrics, and PostgreSQL database structure.
 
 ### TaskFlow — Task Management App
 A React and TypeScript task manager with priorities, due dates, search, filters, and local browser persistence.
