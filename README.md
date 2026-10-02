@@ -1,45 +1,33 @@
-# Hi, I'm Michal 👋
+# TobiDEV96
+# Hi, I'm Michal
 
-I am a motivated and ambitious **Junior Full-Stack Developer** based in the Czech Republic. I enjoy building clean, efficient, and modern web applications from the database level all the way to the user interface. I am constantly learning new technologies and pushing my boundaries.
+Junior Full-Stack Developer based in Europe.
 
----
+I build responsive web applications using React, TypeScript, JavaScript, Python, FastAPI, SQL, HTML, and CSS. I enjoy creating practical business tools, modern websites, dashboards, and small automation projects.
 
-### 🚀 Tech Stack & Skills
+## Main Skills
 
-#### Frontend
-![React](https://shields.io)
-![TypeScript](https://shields.io)
-![JavaScript](https://shields.io)
-![HTML5](https://shields.io)
-![CSS3](https://shields.io)
+- Frontend: React, TypeScript, JavaScript, HTML, CSS
+- Backend: Python, FastAPI, REST APIs
+- Database: PostgreSQL, SQL
+- Tools: Git, GitHub, Docker, Vite
+- Other: Responsive design, API integration, debugging, project documentation
 
-#### Backend & Databases
-![Python](https://shields.io)
-![Flask](https://shields.io)
-![Node.js](https://shields.io)
-![PostgreSQL](https://shields.io)
-![MySQL](https://shields.io)
-
-#### Tools
-![Git](https://shields.io)
-![GitHub](https://shields.io)
-![VS Code](https://shields.io)
-
----
-
-### 📊 GitHub Statistics
-
-These widgets automatically update based on my coding activity and commits:
-
-<p align="left">
-  <img src="https://vercel.app" alt="Michal's GitHub Stats" height="180px" />
-  <img src="https://vercel.app" alt="Top Languages" height="180px" />
-</p>
+## Featured Projects
 
 
----
+### TaskFlow — Task Management App
+A React and TypeScript task manager with priorities, due dates, search, filters, and local browser persistence.
 
-### 💬 Connect with Me
 
-*   **LinkedIn:** [Michal Tobias](https://linkedin.com) 
-*   **Email:** Feel free to reach out to me directly here on GitHub or through my LinkedIn profile.
+### HTML Templates
+A collection of modern HTML/CSS templates focused on visual UI experiments, animated backgrounds, and landing page layouts.
+
+## What I'm Looking For
+
+I'm open to remote junior developer, frontend developer, full-stack developer, and contractor opportunities with international teams.
+
+## Contact
+
+- GitHub: TobiDeveloper96
+- Email: objednavky@tvorbawebik.com
