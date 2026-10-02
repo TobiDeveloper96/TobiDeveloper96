@@ -30,4 +30,4 @@ I'm open to remote junior developer, frontend developer, full-stack developer, a
 ## Contact
 
 - GitHub: TobiDeveloper96
-- Email: objednavky@tvorbawebik.com
+- Email: michaltobias96@icloud.com
