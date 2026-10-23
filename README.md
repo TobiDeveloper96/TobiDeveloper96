@@ -22,6 +22,7 @@ A React and TypeScript task manager with priorities, due dates, search, filters,
 
 ### HTML Templates
 A collection of modern HTML/CSS templates focused on visual UI experiments, animated backgrounds, and landing page layouts.
+App with Matrix template.
 
 ## What I'm Looking For
 
